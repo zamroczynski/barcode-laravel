@@ -7,10 +7,6 @@
 3. SQLite
 4. [php-barcode-generator](https://github.com/picqer/php-barcode-generator)
 
-## Demo
-
-[Click here!](http://188.68.242.194/)
-
 ## Installation
 
 1. Requirements
